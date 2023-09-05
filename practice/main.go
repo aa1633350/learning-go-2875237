@@ -12,4 +12,7 @@ func main() {
 	fmt.Print("Enter your text: ")
 	input, _ := reader.ReadString('\n')
 	fmt.Println("You entered string", input)
+
+	fmt.Print("Enter your text: ")
+
 }
